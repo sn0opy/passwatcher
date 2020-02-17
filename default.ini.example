@@ -25,6 +25,7 @@ AVATAR_URL = https://raw.githubusercontent.com/ccev/passwatcher/master/icons/pas
 EMBED_COLOR = 2039584
 
 TG_STICKER = https://raw.githubusercontent.com/ccev/passwatcher/master/icons/pass.webp
+TG_SEND_STICKER = False
 TG_BOT_ID = 287587:HGVWnbv6dwjh62gvJ
 TG_CHAT_ID = 86725232
 
@@ -37,6 +38,7 @@ AVATAR_URL = https://raw.githubusercontent.com/ccev/passwatcher/master/icons/pas
 EMBED_COLOR = 2039584
 
 TG_STICKER = https://raw.githubusercontent.com/ccev/passwatcher/master/icons/pass.webp
+TG_SEND_STICKER = False
 TG_BOT_ID = 287587:HGVWnbv6dwjh62gvJ
 TG_CHAT_ID = 86725232
 
